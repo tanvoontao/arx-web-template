@@ -25,7 +25,7 @@ export default function Home() {
 
             <UserLayout>
 
-                <Button variant="contained">Contained</Button>
+                <Button variant="contained">test</Button>
 
 
                 {showElement && <main>
