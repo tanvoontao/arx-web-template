@@ -18,7 +18,6 @@
     "@material-table/exporters": "^1.0.12",
     "@mui/material": "latest",
     "@reduxjs/toolkit": "^1.9.2",
-    "aos": "^2.3.4",
     "axios": "^1.2.1",
     "firebase": "^9.17.1",
     "next-themes": "^0.2.1",
